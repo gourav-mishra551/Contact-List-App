@@ -28,6 +28,8 @@ form{
   font-family: inherit;
   outline: 0;
   border: 0;
+   border: 2px solid #1677b9 ;
+  background-color: #95d4ef;
 }
 
 .login_button {
