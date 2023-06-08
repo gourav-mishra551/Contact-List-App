@@ -1,3 +1,17 @@
+# How to Login
+   {
+    username: "user1",
+    password: "password1",
+  },
+  {
+    username: "user2",
+    password: "password2",
+  },
+  {
+    username: "user3",
+    password: "password3",
+  },
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
